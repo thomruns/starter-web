@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+The purpose of this edit is to review modifications.
 
 ## Purpose
 

@@ -7,7 +7,7 @@ The purpose of this edit is to review modifications.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. This is an additional modification.
 
 ## Deployment
 

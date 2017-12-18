@@ -13,7 +13,7 @@ Sample website with plenty of files for demos. This is an additional modificatio
 This is information on how to deploy the modified files.
 
 ## How to Contribute
-This is a modification that will be staged but not yet committed.
+Please fork this repository and then issue Pull Requests for review.
 
 ### Modification
 This file has been modified as a part of a lesson. This is another modification as part of a lesson.

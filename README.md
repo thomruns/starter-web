@@ -10,6 +10,7 @@ The purpose of this edit is to review modifications.
 Sample website with plenty of files for demos. This is an additional modification.
 
 ## Deployment
+This is information on how to deploy the modified files.
 
 ## How to Contribute
 

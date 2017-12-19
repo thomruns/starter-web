@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
+Adding a line for rebasing example.
 
 ## Introduction
 The purpose of this edit is to review modifications.

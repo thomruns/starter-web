@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 This file has been modified as a part of a lesson. This is another modification as part of a lesson.
 
 ## Copyright
-2017 Tremendous Web Design Company
+2017 Tremendous Web Design Company, All rights reserved.
